@@ -8,3 +8,4 @@ read.csv("./data/houseelf_earlength_dna_data.csv")
 read.csv("./data/houseelf_earlength_dna_data_1.csv")
 
 #5
+#remote was added
